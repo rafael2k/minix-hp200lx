@@ -1,5 +1,5 @@
 This is the copy of "/usr/src" of the images available at:
-web.archive.org/web/20030423184106/http:/minix.technoir.org/
+https://web.archive.org/web/20030423184106/http:/minix.technoir.org/
 
 Minix 2.0.2 under DOS 
 
