@@ -1,3 +1,6 @@
+This is the copy of "/usr/src" of the images available at:
+web.archive.org/web/20030423184106/http:/minix.technoir.org/
+
 Minix 2.0.2 under DOS 
 
 The DOSMINIX.ZIP file contains Minix version 2.0.2, a small educational
